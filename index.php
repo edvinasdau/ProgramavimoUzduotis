@@ -1,4 +1,5 @@
 <?php
+
 function register ($firstname, $lastname, $email, $phonenumber1, $phonenumber2, $comment) {
 	$servername = "localhost";
 	$username = "root";
